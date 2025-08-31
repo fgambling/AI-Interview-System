@@ -433,30 +433,6 @@ dotnet test
 - **User Experience**: Session duration, completion rates, and feedback
 - **AI Model Performance**: Accuracy, latency, and resource utilization
 
-## 🔮 Roadmap
-
-### Q1 2024
-
-- [ ] Azure Kubernetes Service (AKS) deployment
-- [ ] Advanced GPU optimization with TensorRT
-- [ ] Multi-region Azure deployment
-- [ ] Azure OpenAI Service integration
-
-### Q2 2024
-
-- [ ] Real-time collaboration features
-- [ ] Advanced analytics with Azure Synapse
-- [ ] Mobile application with React Native
-- [ ] Enterprise SSO integration
-
-### Q3 2024
-
-- [ ] Multi-language interview support
-- [ ] Advanced AI evaluation algorithms
-- [ ] Custom interview templates
-- [ ] HR system integrations
-
-## 🤝 Contributing
 
 ### Development Guidelines
 
@@ -478,22 +454,8 @@ dotnet test
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🆘 Support & Community
-
-### Azure Support
-
-- **Azure Documentation**: Comprehensive Azure service documentation
-- **Azure Community**: Active developer community and forums
-- **Azure Support Plans**: Enterprise support options available
-
-### Project Support
-
-- **GitHub Issues**: Report bugs and request features
-- **Documentation**: Comprehensive API and deployment guides
-- **Community**: Join our developer community discussions
-
 ---
 
-**Built with ❤️ on Azure Cloud with GPU-accelerated AI capabilities**
+**Built on Azure Cloud with GPU-accelerated AI capabilities**
 
 _Powered by Azure GPT-OSS, D-ID Clips Streams, and Azure Cognitive Services_
